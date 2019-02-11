@@ -1,2 +1,2 @@
 # dataScience
-Proyecto en analisis de datos.
+Proyectos para el analisis de datos
